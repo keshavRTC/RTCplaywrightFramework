@@ -1,0 +1,1 @@
+Header link About Us clicked and URL validated.

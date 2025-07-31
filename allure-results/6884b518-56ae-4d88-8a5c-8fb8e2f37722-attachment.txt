@@ -1,0 +1,3 @@
+headeText--> Industries
+headerLocator----------> getByRole('link', { name: 'Industries' })
+Validating URL for slug: industries

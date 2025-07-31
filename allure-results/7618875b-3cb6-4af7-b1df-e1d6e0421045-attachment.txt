@@ -1,0 +1,1 @@
+getByText('About Us', { exact: true })

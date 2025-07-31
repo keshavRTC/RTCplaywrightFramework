@@ -1,0 +1,5 @@
+headerLocator printing : getByRole('link', { name: 'Industries', exact: true })
+Validating URL for slug: media-and-entertainment/
+Current URL: https://rtctek.com/media-and-entertainment/
+Expected Slug: media-and-entertainment/
+Submenu link "Media" under "Industries" validated.

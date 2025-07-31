@@ -1,0 +1,4 @@
+headeText--> About Us
+headerLocator----------> getByRole('link', { name: 'About Us' })
+Validating URL for slug: about-us
+✅ Header "About Us" validated.

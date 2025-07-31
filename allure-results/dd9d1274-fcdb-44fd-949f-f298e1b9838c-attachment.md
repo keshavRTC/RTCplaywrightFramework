@@ -1,0 +1,318 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Round The Clock Technologies Logo":
+    - /url: https://rtctek.com/
+    - img "Round The Clock Technologies Logo"
+  - navigation:
+    - list:
+      - listitem:
+        - link "About Us":
+          - /url: https://rtctek.com/about-us/
+      - listitem:
+        - link "Services":
+          - /url: https://rtctek.com/services/
+        - link "DevOps Solutions":
+          - /url: /services/cloud-solutions/
+        - list:
+          - listitem:
+            - link "DevOps Automation Services":
+              - /url: https://rtctek.com/devops-automation-services/
+          - listitem:
+            - link "DevSecOps Consulting Services":
+              - /url: https://rtctek.com/cloud-devops-consulting
+          - listitem:
+            - link "Kubernetes and Containerization":
+              - /url: https://rtctek.com/kubernetes-and-containerization
+          - listitem:
+            - link "CI/CD Automation":
+              - /url: https://rtctek.com/ci-cd-automation/
+        - link "Quality Assurance":
+          - /url: /services/quality-assurance/
+        - list:
+          - listitem:
+            - link "Performance Testing":
+              - /url: https://rtctek.com/performance-testing-services
+          - listitem:
+            - link "Accessibility Testing":
+              - /url: https://rtctek.com/accessibility-testing-services
+          - listitem:
+            - link "Usability Testing":
+              - /url: https://rtctek.com/usability-testing-services/
+          - listitem:
+            - link "Automation Testing":
+              - /url: https://rtctek.com/automation-testing-services
+          - listitem:
+            - link "Security Testing":
+              - /url: https://rtctek.com/security-testing-services
+          - listitem:
+            - link "Mobile Testing":
+              - /url: https://rtctek.com/mobile-testing-services
+          - listitem:
+            - link "Functional Testing":
+              - /url: https://rtctek.com/functional-testing-services
+          - listitem:
+            - link "Internationalization":
+              - /url: https://rtctek.com/internationalization-services/
+        - link "Software Development":
+          - /url: /services/software-development/
+        - list:
+          - listitem:
+            - link "Cloud Architecture and Design":
+              - /url: https://rtctek.com/cloud-architecture-and-design/
+          - listitem:
+            - link "Cloud Security Services":
+              - /url: https://rtctek.com/cloud-security-services/
+          - listitem:
+            - link "Cloud Migration Services":
+              - /url: https://rtctek.com/cloud-migration-services/
+          - listitem:
+            - link "Mobile App Development":
+              - /url: https://rtctek.com/mobile-app-development-services/
+          - listitem:
+            - link "Web Development":
+              - /url: https://rtctek.com/web-development-services/
+          - listitem:
+            - link "OTT Platform Development":
+              - /url: https://rtctek.com/ott-platform-development/
+          - listitem:
+            - link "Accessibility Remediation":
+              - /url: https://rtctek.com/accessibility-remediation-services/
+          - listitem:
+            - link "Enterprise Application Development":
+              - /url: /enterprise-application-development-services/
+          - listitem:
+            - link "Data Engineering Services":
+              - /url: https://rtctek.com/data-engineering-services/
+      - listitem:
+        - link "Industries":
+          - /url: "#"
+      - listitem:
+        - link "Knowledge Center":
+          - /url: https://rtctek.com/blogs/
+        - list:
+          - listitem:
+            - link "Blogs":
+              - /url: https://rtctek.com/blogs/
+          - listitem:
+            - link "Case Studies":
+              - /url: https://rtctek.com/case-study
+      - listitem:
+        - link "Get a Quote":
+          - /url: https://rtctek.com/get-a-quote/
+      - listitem:
+        - link "Apply Now":
+          - /url: https://rtctek.com/apply-now
+  - link "Contact Us":
+    - /url: /contact-us/
+- heading "Insights" [level=2]
+- heading "Immerse Yourself in Our Creative Blogs." [level=2]
+- text: From AI and machine learning to blockchain, IoT, and beyond, we delve into the depths of emerging technologies, exploring their potential and impact on businesses and society. Whether you are an enthusiastic tech enthusiast, an industry expert, or a curious mind seeking to grasp the latest advancements, our blog is tailored for you.
+- img
+- heading "How to Eliminate Flaky Tests Using AI-Based Stability Checks" [level=1]:
+  - link "How to Eliminate Flaky Tests Using AI-Based Stability Checks":
+    - /url: https://rtctek.com/how-to-eliminate-flaky-tests-using-ai-based-stability-checks/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "July 16, 2025":
+      - /url: https://rtctek.com/2025/07/16/
+      - time: July 16, 2025
+- paragraph: In the fast-paced world of DevOps and Continuous Integration/Continuous Deployment...
+- link "Read More":
+  - /url: https://rtctek.com/how-to-eliminate-flaky-tests-using-ai-based-stability-checks/
+- img
+- heading "Container Orchestration Automation Using Kubernetes" [level=1]:
+  - link "Container Orchestration Automation Using Kubernetes":
+    - /url: https://rtctek.com/container-orchestration-automation-using-kubernetes/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "July 2, 2025":
+      - /url: https://rtctek.com/2025/07/02/
+      - time: July 2, 2025
+- paragraph: With the rise of microservices and cloud-native applications, containers like...
+- link "Read More":
+  - /url: https://rtctek.com/container-orchestration-automation-using-kubernetes/
+- img
+- heading "Automation Trends in SaaS and Cloud-Native Environments" [level=1]:
+  - link "Automation Trends in SaaS and Cloud-Native Environments":
+    - /url: https://rtctek.com/automation-trends-in-saas-and-cloud-native-environments/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "July 2, 2025":
+      - /url: https://rtctek.com/2025/07/02/
+      - time: July 2, 2025
+- paragraph: In today’s rapidly evolving digital ecosystem, automation is no longer...
+- link "Read More":
+  - /url: https://rtctek.com/automation-trends-in-saas-and-cloud-native-environments/
+- img
+- 'heading "The AI-Driven Evolution of Performance Testing: Smarter, Faster, Scalable" [level=1]':
+  - 'link "The AI-Driven Evolution of Performance Testing: Smarter, Faster, Scalable"':
+    - /url: https://rtctek.com/the-ai-driven-evolution-of-performance-testing-smarter-faster-scalable/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 26, 2025":
+      - /url: https://rtctek.com/2025/06/26/
+      - time: June 26, 2025
+- paragraph: As digital ecosystems scale and user expectations soar, performance testing...
+- link "Read More":
+  - /url: https://rtctek.com/the-ai-driven-evolution-of-performance-testing-smarter-faster-scalable/
+- img
+- heading "Visual Regression Testing in Automation Frameworks" [level=1]:
+  - link "Visual Regression Testing in Automation Frameworks":
+    - /url: https://rtctek.com/visual-regression-testing-in-automation-frameworks/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 20, 2025":
+      - /url: https://rtctek.com/2025/06/20/
+      - time: June 20, 2025
+- paragraph: In today’s fast-paced digital environment, application UI changes frequently. Minor...
+- link "Read More":
+  - /url: https://rtctek.com/visual-regression-testing-in-automation-frameworks/
+- img
+- heading "How to Automate CI/CD Pipelines for Faster Software Delivery" [level=1]:
+  - link "How to Automate CI/CD Pipelines for Faster Software Delivery":
+    - /url: https://rtctek.com/how-to-automate-ci-cd-pipelines-for-faster-software-delivery/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 18, 2025":
+      - /url: https://rtctek.com/2025/06/18/
+      - time: June 18, 2025
+- paragraph: In the evolving landscape of modern software development, speed and...
+- link "Read More":
+  - /url: https://rtctek.com/how-to-automate-ci-cd-pipelines-for-faster-software-delivery/
+- img
+- heading "Real-World Data Warehouse Issues and How to Fix Them" [level=1]:
+  - link "Real-World Data Warehouse Issues and How to Fix Them":
+    - /url: https://rtctek.com/real-world-data-warehouse-issues-and-how-to-fix-them/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 13, 2025":
+      - /url: https://rtctek.com/2025/06/13/
+      - time: June 13, 2025
+- paragraph: In today’s data-centric business environment, data warehouses play a vital...
+- link "Read More":
+  - /url: https://rtctek.com/real-world-data-warehouse-issues-and-how-to-fix-them/
+- img
+- heading "Common Accessibility Issues and How to Fix Them" [level=1]:
+  - link "Common Accessibility Issues and How to Fix Them":
+    - /url: https://rtctek.com/common-accessibility-issues-and-how-to-fix-them/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 13, 2025":
+      - /url: https://rtctek.com/2025/06/13/
+      - time: June 13, 2025
+- paragraph: Creating inclusive digital experiences isn’t just a legal requirement; it’s...
+- link "Read More":
+  - /url: https://rtctek.com/common-accessibility-issues-and-how-to-fix-them/
+- img
+- heading "How Do Developers Automate Accessibility Testing in CI/CD?" [level=1]:
+  - link "How Do Developers Automate Accessibility Testing in CI/CD?":
+    - /url: https://rtctek.com/how-do-developers-automate-accessibility-testing-in-ci-cd/
+- list:
+  - listitem:
+    - link "Content Team":
+      - /url: https://rtctek.com/author/content-team/
+  - listitem:
+    - link "June 6, 2025":
+      - /url: https://rtctek.com/2025/06/06/
+      - time: June 6, 2025
+- paragraph: Continuous Integration and Continuous Deployment (CI/CD) have become fundamental in...
+- link "Read More":
+  - /url: https://rtctek.com/how-do-developers-automate-accessibility-testing-in-ci-cd/
+- button "Load More"
+- contentinfo:
+  - heading "About Us" [level=2]
+  - paragraph:
+    - text: We are stalwart technology professionals, leading the digital domain through our niche software development solutions.
+    - link "Know More":
+      - /url: https://rtctek.com/
+  - figure "CMMI Level 3 Certificate":
+    - img "CMMI Level 3 Certificate | Round The Clock Technologies"
+  - figure "ISO 27001 Certificate":
+    - img "ISO 27001 Certificate Award | Round The Clock Technologies"
+  - figure "ISO 9001 Certificate":
+    - img "ISO 9001 Certificate Award | Round The Clock Technologies"
+  - heading "Services" [level=2]
+  - list:
+    - listitem:
+      - link "Cloud Solutions":
+        - /url: https://rtctek.com/services/devops-solutions/
+    - listitem:
+      - link "Quality Assurance":
+        - /url: https://rtctek.com/services/quality-assurance/
+    - listitem:
+      - link "Software Development":
+        - /url: https://rtctek.com/services/software-development/
+  - heading "Useful Links" [level=2]
+  - list:
+    - listitem:
+      - link "Contact Us":
+        - /url: https://rtctek.com/contact-us/
+    - listitem:
+      - link "Blog":
+        - /url: https://rtctek.com/blogs/
+    - listitem:
+      - link "Apply Now":
+        - /url: https://rtctek.com/apply-now
+    - listitem:
+      - link "Get a Quote":
+        - /url: https://rtctek.com/get-a-quote/
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://rtctek.com/privacy-policy/
+  - heading "Get in Touch" [level=2]
+  - tablist:
+    - tab "USA Headquarter" [expanded] [selected]
+    - tab "USA Office"
+    - tab "Noida Office"
+    - tab "Delhi Office"
+    - tab "Canada Office"
+  - tablist:
+    - tabpanel "USA Headquarter":
+      - paragraph: 16192 Coastal Highway, Lewes, Delaware, County of Sussex 19958, US
+  - list:
+    - listitem:
+      - link "info@rtctek.com":
+        - /url: mailto:info@rtctek.com
+  - link "Linkedin":
+    - /url: https://www.linkedin.com/company/round-the-clock-technologies-rtctek/
+    - text: Linkedin
+    - img
+  - link "Instagram":
+    - /url: https://www.instagram.com/rtctek_/
+    - text: Instagram
+    - img
+  - link "Facebook":
+    - /url: https://www.facebook.com/RTCTek
+    - text: Facebook
+    - img
+  - link "Twitter":
+    - /url: https://twitter.com/RtcTek
+    - text: Twitter
+    - img
+```

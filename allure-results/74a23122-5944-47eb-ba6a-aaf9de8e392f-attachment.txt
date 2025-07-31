@@ -1,0 +1,79 @@
+try second locator may be its service submenu
+Error locating submenu link: ExpectError: Timed out 5000ms waiting for expect(locator).toBeVisible()
+
+Locator: locator('//div[@data-id=\'6a765d9\']//a[@href="/cloud-security-services/"]')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for locator('//div[@data-id=\'6a765d9\']//a[@href="/cloud-security-services/"]')
+
+    at HeaderPage.clickSubmenuLink (C:\Users\keshav.sharma\PracticeProjects\RTCtek_automation_by_playwright\src\pages\headerPage.ts:71:40)
+    at C:\Users\keshav.sharma\PracticeProjects\RTCtek_automation_by_playwright\tests\playwright\header.spec.ts:82:11 {
+  matcherResult: {
+    message: '\x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+      '\n' +
+      `Locator: locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\n` +
+      'Expected: visible\n' +
+      'Received: <element(s) not found>\n' +
+      'Call log:\n' +
+      '\x1B[2m  - Expect "toBeVisible" with timeout 5000ms\x1B[22m\n' +
+      `\x1B[2m  - waiting for locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\x1B[22m\n`,
+    pass: false,
+    actual: '<element(s) not found>',
+    name: 'toBeVisible',
+    expected: 'visible',
+    log: [
+      '  - Expect "toBeVisible" with timeout 5000ms',
+      `  - waiting for locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')`
+    ],
+    timeout: 5000
+  },
+  [Symbol(step)]: {
+    stepId: 'expect@11',
+    category: 'expect',
+    apiName: 'expect.toBeVisible',
+    title: 'toBeVisible',
+    params: undefined,
+    infectParentStepsWithError: undefined,
+    boxedStack: undefined,
+    location: {
+      file: 'C:\\Users\\keshav.sharma\\PracticeProjects\\RTCtek_automation_by_playwright\\src\\pages\\headerPage.ts',
+      line: 71,
+      column: 40,
+      function: 'HeaderPage.clickSubmenuLink'
+    },
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'expect@11',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1753780362912,
+    error: {
+      message: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+        '\n' +
+        `Locator: locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\n` +
+        'Expected: visible\n' +
+        'Received: <element(s) not found>\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toBeVisible" with timeout 5000ms\x1B[22m\n' +
+        `\x1B[2m  - waiting for locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\x1B[22m\n`,
+      stack: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoBeVisible\x1B[2m()\x1B[22m\n' +
+        '\n' +
+        `Locator: locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\n` +
+        'Expected: visible\n' +
+        'Received: <element(s) not found>\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toBeVisible" with timeout 5000ms\x1B[22m\n' +
+        `\x1B[2m  - waiting for locator('//div[@data-id=\\'6a765d9\\']//a[@href="/cloud-security-services/"]')\x1B[22m\n` +
+        '\n' +
+        '    at HeaderPage.clickSubmenuLink (C:\\Users\\keshav.sharma\\PracticeProjects\\RTCtek_automation_by_playwright\\src\\pages\\headerPage.ts:71:40)\n' +
+        '    at C:\\Users\\keshav.sharma\\PracticeProjects\\RTCtek_automation_by_playwright\\tests\\playwright\\header.spec.ts:82:11',
+      cause: undefined
+    }
+  }
+}

@@ -1,0 +1,5 @@
+log th eheaderLocator----------> locator('//div[@data-id="6a765d9"]//a[normalize-space() = ""]')
+Validating URL for slug: https://rtctek.com/
+Current URL: https://rtctek.com/
+Expected Slug: https://rtctek.com/
+Header "" validated.

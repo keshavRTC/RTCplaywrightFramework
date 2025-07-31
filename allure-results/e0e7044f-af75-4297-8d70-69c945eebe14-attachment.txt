@@ -1,0 +1,3 @@
+Validating URL for slug: blog/
+Current URL: https://rtctek.com/blogs/
+Expected Slug: blog/

@@ -1,0 +1,6 @@
+headerLocator printing : getByRole('link', { name: 'Knowledge Center', exact: true })
+Validating URL for slug: case-study
+Current URL: https://rtctek.com/case-study
+Expected Slug: case-study
+ Submenu link "Case Studies" validated.
+headerLocator printing : getByRole('link', { name: 'Knowledge Center', exact: true })

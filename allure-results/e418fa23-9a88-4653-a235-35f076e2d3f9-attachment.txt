@@ -1,0 +1,5 @@
+log headeText--> Industries
+log th eheaderLocator----------> getByRole('link', { name: 'Industries' })
+Validating URL for slug: industries
+Current URL: https://rtctek.com/#
+Expected Slug: industries
