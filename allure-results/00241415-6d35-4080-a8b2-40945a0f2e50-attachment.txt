@@ -1,1 +1,0 @@
-log th eheaderLocator----------> locator('//div[@data-id="6a765d9"]//a[normalize-space() = ""]')

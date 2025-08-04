@@ -1,2 +1,0 @@
-log headeText--> Apply Now
-log th eheaderLocator----------> getByRole('link', { name: 'Apply Now' })

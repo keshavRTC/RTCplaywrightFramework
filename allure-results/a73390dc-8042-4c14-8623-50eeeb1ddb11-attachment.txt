@@ -1,6 +1,0 @@
-✅ Submenu link "EduTech" validated.
-✅ Submenu link "Media" validated.
-✅ Submenu link "Healthcare" validated.
-✅ Submenu link "Fintech" validated.
-✅ Submenu link "Retail" validated.
-✅ Submenu link "Government" validated.

@@ -1,2 +1,0 @@
-log headeText--> Contact Us
-log th eheaderLocator----------> getByRole('link', { name: 'Contact Us' })

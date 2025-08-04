@@ -1,6 +1,0 @@
-log headeText--> About Us
-log th eheaderLocator----------> getByRole('link', { name: 'About Us', exact: true })
-Validating URL for slug: about-us
-Current URL: https://rtctek.com/about-us/
-Expected Slug: about-us
- Header "About Us" validated.

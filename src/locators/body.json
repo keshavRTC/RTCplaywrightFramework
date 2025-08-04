@@ -2,14 +2,14 @@
     "headers": {
         "apply": {
             "applyBtnClick" : "//div[@data-id='6a765d9']//a[@href='https://rtctek.com/apply-now']", 
-            "formVisible": "//div[@id = 'SubTitleId_subtitleAriaId']"
+            "formVisible": "//div[@aria-labelledby='FormTitleId_titleAriaId']"
         },
         "contact": {
             "clickOnContactUs": "//a[@href='/contact-us/' and normalize-space() = 'Contact Us']",
             "form": "//div[@data-id = 'e32dd57']",
             "India Office": "//div[@id='elementor-tab-title-4032']",
             "indianOfficeText": "//div[@id='elementor-tab-content-4032']//p",
-            "findUsOnMap": "//div[@id='mapDiv']"
+            "findUsOnMap": "//div[@class='elementor-custom-embed']"
         },
         "about": {
             "clickonAboutUs": "//a[@href='https://rtctek.com/about-us/'and normalize-space() = 'About Us']",
@@ -17,6 +17,7 @@
             "rightButton": "//button[@aria-label='Next']",
             "leftButton": "//button[@aria-label='Previous']",
             "hovering": "//h4[normalize-space() = 'DevOps Solutions']",
+            "devopshoveringText": "(//p[@class='aheto-content-block__info-text'])[1]" , 
             "hoveringText": "//article[@id='post-11782']"
 
         },

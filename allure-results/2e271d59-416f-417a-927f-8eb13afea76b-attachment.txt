@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Industries', exact: true })
-Validating URL for slug: retail/
-Current URL: https://rtctek.com/retail/
-Expected Slug: retail/
-Submenu link "Retail" under "Industries" validated.

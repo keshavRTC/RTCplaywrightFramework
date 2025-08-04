@@ -1,4 +1,0 @@
-Validating URL for slug: apply-now
-Current URL: https://rtctek.com/apply-now
-Expected Slug: apply-now
-Header "Apply Now" validated.

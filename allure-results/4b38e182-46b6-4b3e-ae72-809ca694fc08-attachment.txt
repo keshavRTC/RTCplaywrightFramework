@@ -1,3 +1,0 @@
-headeText--> About Us
-headerLocator--> getByRole('link', { name: 'About Us' })
-✅ Header "About Us" validated.

@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Services', exact: true })
-Validating URL for slug: /mobile-app-development-services/
-Current URL: https://rtctek.com/mobile-app-development-services/
-Expected Slug: /mobile-app-development-services/
-Submenu link "Mobile App Development" under "Services" validated.

@@ -1,5 +1,0 @@
-log th eheaderLocator----------> locator('a[href="/contact-us/"]').filter({ hasText: 'Contact Us' })
-Validating URL for slug: contact-us
-Current URL: https://rtctek.com/contact-us/
-Expected Slug: contact-us
-✅ Header "Contact Us" validated.

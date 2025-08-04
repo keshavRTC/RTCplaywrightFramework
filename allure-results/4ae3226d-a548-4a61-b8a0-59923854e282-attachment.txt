@@ -1,2 +1,0 @@
-headeText--> Apply Now
-headerLocator--> getByRole('link', { name: 'Apply Now' })

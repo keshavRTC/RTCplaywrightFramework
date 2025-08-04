@@ -1,4 +1,0 @@
-Validating URL for slug: devops-solutions/
-Current URL: https://rtctek.com/services/devops-solutions/
-Expected Slug: devops-solutions/
-Header "Cloud Solutions" validated.

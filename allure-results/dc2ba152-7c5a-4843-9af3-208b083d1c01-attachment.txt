@@ -1,5 +1,0 @@
-log th eheaderLocator----------> locator('//div[@data-id=\'6a765d9\']//a[normalize-space()=\'Get a Quote\']')
-Validating URL for slug: get-a-quote
-Current URL: https://rtctek.com/get-a-quote/
-Expected Slug: get-a-quote
-Header "Get a Quote" validated.

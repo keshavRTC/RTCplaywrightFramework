@@ -1,3 +1,0 @@
-headeText--> Knowledge Center
-headerLocator----------> getByRole('link', { name: 'Knowledge Center' })
-Validating URL for slug: knowledge-center

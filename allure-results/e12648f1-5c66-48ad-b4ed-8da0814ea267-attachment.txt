@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Services', exact: true })
-Validating URL for slug: /cloud-architecture-and-design/
-Current URL: https://rtctek.com/cloud-architecture-and-design/
-Expected Slug: /cloud-architecture-and-design/
-Submenu link "Cloud Architecture and Design" under "Services" validated.

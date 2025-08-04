@@ -1,2 +1,0 @@
-headeText--> Get A Quote
-headerLocator--> getByRole('link', { name: 'Get A Quote' })

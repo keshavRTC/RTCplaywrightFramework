@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Industries', exact: true })
-Validating URL for slug: /edutech/
-Current URL: https://rtctek.com/edutech/
-Expected Slug: /edutech/
-Submenu link "EduTech" under "Industries" validated.

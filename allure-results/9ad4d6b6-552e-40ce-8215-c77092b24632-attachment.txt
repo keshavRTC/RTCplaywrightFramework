@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Services', exact: true })
-Validating URL for slug: /automation-testing-services
-Current URL: https://rtctek.com/automation-testing-services
-Expected Slug: /automation-testing-services
-Submenu link "Automation Testing" under "Services" validated.

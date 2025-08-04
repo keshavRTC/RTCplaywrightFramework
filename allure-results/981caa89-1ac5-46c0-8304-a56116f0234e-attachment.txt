@@ -1,6 +1,0 @@
-log headeText--> Services
-log th eheaderLocator----------> getByRole('link', { name: 'Services', exact: true })
-Validating URL for slug: /services
-Current URL: https://rtctek.com/services/
-Expected Slug: /services
-Header "Services" validated.

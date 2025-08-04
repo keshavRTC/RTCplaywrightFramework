@@ -1,5 +1,0 @@
-headerLocator printing : getByRole('link', { name: 'Services', exact: true })
-Validating URL for slug: /services/quality-assurance
-Current URL: https://rtctek.com/services/quality-assurance/
-Expected Slug: /services/quality-assurance
-Submenu link "Quality Assurance" under "Services" validated.

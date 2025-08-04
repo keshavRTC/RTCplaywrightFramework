@@ -1,2 +1,0 @@
-log headeText--> Get a Quote
-log th eheaderLocator----------> getByRole('link', { name: 'Get a Quote', exact: true })

@@ -2,11 +2,12 @@ import { Page, Locator } from '@playwright/test';
 import { JsonLocatorReader } from 'utils/jsonLocatorReader';
 import path from 'path';
 
-const jsonPath = path.resolve(__dirname, '../locators/footer.json');
+const jsonPath = path.resolve(__dirname, '../locators/body.json');
 const reader = new JsonLocatorReader(jsonPath);
 const locators = reader.getHeaders();
-
+console.log(locators) ; 
 export class NavigationPage {
+  
   readonly page: Page;
 
   constructor(page: Page) {

@@ -1,6 +1,0 @@
-log headeText--> Knowledge Center
-log th eheaderLocator----------> getByRole('link', { name: 'Knowledge Center' })
-Validating URL for slug: blogs
-Current URL: https://rtctek.com/blogs/
-Expected Slug: blogs
-✅ Header "Knowledge Center" validated.

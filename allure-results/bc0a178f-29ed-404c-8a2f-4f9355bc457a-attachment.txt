@@ -1,3 +1,0 @@
-Validating URL for slug: undefined
-Current URL: https://rtctek.com/services/devops-solutions/
-Expected Slug: undefined

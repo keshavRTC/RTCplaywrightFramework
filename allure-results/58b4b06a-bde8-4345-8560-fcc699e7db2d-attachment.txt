@@ -1,5 +1,0 @@
-log th eheaderLocator----------> locator('//div[@data-id="6a765d9"]//a[@href="https://rtctek.com/apply-now"]')
-Validating URL for slug: apply-now
-Current URL: https://rtctek.com/apply-now
-Expected Slug: apply-now
- Header "Apply Now" validated.
